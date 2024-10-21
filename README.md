@@ -12,5 +12,7 @@ Proyek ini adalah skrip JavaScript sederhana yang mengonversi teks menjadi forma
 2. Clone repositori ini atau unduh file `Base64Converter`.
 3. Buka terminal dan navigasikan ke direktori tempat file disimpan.
 4. Jalankan perintah berikut:
+   `node Converter1.js`
+   or 
    ```bash
-   node Converter.js
+   node Converter2.js
