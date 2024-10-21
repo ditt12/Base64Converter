@@ -9,7 +9,7 @@ Proyek ini adalah skrip JavaScript sederhana yang mengonversi teks menjadi forma
 
 ## Cara Menggunakan
 1. Pastikan Anda memiliki Node.js terinstal di sistem Anda.
-2. Clone repositori ini atau unduh file `base64Converter.js`.
+2. Clone repositori ini atau unduh file `Base64Converter`.
 3. Buka terminal dan navigasikan ke direktori tempat file disimpan.
 4. Jalankan perintah berikut:
    ```bash
